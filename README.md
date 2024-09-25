@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nagasai Petnikoti
-- 👀 I’m interested in web & App developer & software engineering
+- 👀 I’m interested in  Data Analyst ,web developer & software engineering
 - 🌱 I’m currently learning java and frameworks
 - 📫 How to reach me : petnikotinagasai@gmail.com or 9603511436
 - 😄 Pronouns: he/his
